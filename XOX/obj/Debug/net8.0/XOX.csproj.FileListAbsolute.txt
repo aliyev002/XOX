@@ -1,0 +1,14 @@
+C:\Users\Legion\source\repos\XOX\XOX\bin\Debug\net8.0\XOX.exe
+C:\Users\Legion\source\repos\XOX\XOX\bin\Debug\net8.0\XOX.deps.json
+C:\Users\Legion\source\repos\XOX\XOX\bin\Debug\net8.0\XOX.runtimeconfig.json
+C:\Users\Legion\source\repos\XOX\XOX\bin\Debug\net8.0\XOX.dll
+C:\Users\Legion\source\repos\XOX\XOX\bin\Debug\net8.0\XOX.pdb
+C:\Users\Legion\source\repos\XOX\XOX\obj\Debug\net8.0\XOX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\XOX\XOX\obj\Debug\net8.0\XOX.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\XOX\XOX\obj\Debug\net8.0\XOX.AssemblyInfo.cs
+C:\Users\Legion\source\repos\XOX\XOX\obj\Debug\net8.0\XOX.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\XOX\XOX\obj\Debug\net8.0\XOX.dll
+C:\Users\Legion\source\repos\XOX\XOX\obj\Debug\net8.0\refint\XOX.dll
+C:\Users\Legion\source\repos\XOX\XOX\obj\Debug\net8.0\XOX.pdb
+C:\Users\Legion\source\repos\XOX\XOX\obj\Debug\net8.0\XOX.genruntimeconfig.cache
+C:\Users\Legion\source\repos\XOX\XOX\obj\Debug\net8.0\ref\XOX.dll
